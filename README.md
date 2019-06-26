@@ -1,4 +1,4 @@
-# IBEIS Identification Plugin Example
+# IBEIS Identification HumpbackTL Example
 An example of how to design and use a Python module as a plugin in the IBEIS IA system
 
 # Installation
